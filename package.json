@@ -4,7 +4,7 @@
   "description": "Portofolio website express app for Heroku deployment",
   "main": "index.js",
   "scripts": {
-    "start": "PORT=3000 node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
