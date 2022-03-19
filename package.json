@@ -1,0 +1,24 @@
+{
+  "name": "portofolio-website-heroku",
+  "version": "1.0.0",
+  "description": "Portofolio website express app for Heroku deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radu-ux/portofolio-website-heroku.git"
+  },
+  "author": "Uivari Radu Iulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radu-ux/portofolio-website-heroku/issues"
+  },
+  "homepage": "https://github.com/radu-ux/portofolio-website-heroku#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "path": "^0.12.7"
+  }
+}

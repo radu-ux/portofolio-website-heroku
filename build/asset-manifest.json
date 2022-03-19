@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee0abb9a.chunk.css",
+    "main.js": "/static/js/main.d039a0f2.chunk.js",
+    "main.js.map": "/static/js/main.d039a0f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.37fab4e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.37fab4e1.js.map",
+    "static/js/2.99fcdd38.chunk.js": "/static/js/2.99fcdd38.chunk.js",
+    "static/js/2.99fcdd38.chunk.js.map": "/static/js/2.99fcdd38.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ee0abb9a.chunk.css.map": "/static/css/main.ee0abb9a.chunk.css.map",
+    "static/js/2.99fcdd38.chunk.js.LICENSE.txt": "/static/js/2.99fcdd38.chunk.js.LICENSE.txt",
+    "static/media/R-logo.6a17e4a8.svg": "/static/media/R-logo.6a17e4a8.svg",
+    "static/media/avatar.ecd31899.jpg": "/static/media/avatar.ecd31899.jpg",
+    "static/media/email.2bccf9ae.svg": "/static/media/email.2bccf9ae.svg",
+    "static/media/facebook-footer.a65770d5.svg": "/static/media/facebook-footer.a65770d5.svg",
+    "static/media/github-footer.24a6c4ab.svg": "/static/media/github-footer.24a6c4ab.svg",
+    "static/media/github.a7deeeb2.svg": "/static/media/github.a7deeeb2.svg",
+    "static/media/linkedin-footer.4b6adea2.svg": "/static/media/linkedin-footer.4b6adea2.svg",
+    "static/media/AboutSection.css": "/static/media/list-arrow.c585d818.svg",
+    "static/media/PostSection.css": "/static/media/post-3.8250e30e.jpg",
+    "static/media/WorkSection.css": "/static/media/project-2.64df6f40.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37fab4e1.js",
+    "static/js/2.99fcdd38.chunk.js",
+    "static/css/main.ee0abb9a.chunk.css",
+    "static/js/main.d039a0f2.chunk.js"
+  ]
+}
